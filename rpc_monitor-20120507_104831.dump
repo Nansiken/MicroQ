@@ -1,0 +1,6 @@
+*** RpcMonitor statistics
+ - 0 calls
+
+RpcMonitor was not enabled.
+
+Use -Derlide.rpcmonitor to enable it.

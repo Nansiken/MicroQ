@@ -1,0 +1,2 @@
+{packages,[]}.
+{modules,[bar,client_state,foo,jcom,state_switcher]}.

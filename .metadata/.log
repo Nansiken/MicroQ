@@ -1,0 +1,13 @@
+!SESSION 2012-05-07 10:46:31.883 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_04
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\Berggren\Dropbox\MicroQ\pop_2012_project_group_12 -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.erlide.core 1 0 2012-05-07 10:46:40.115
+!MESSAGE Erlide log is in C:/Users/Berggren/Dropbox/MicroQ/pop_2012_project_group_12
+
+!ENTRY org.erlide.core 1 0 2012-05-07 10:46:40.155
+!MESSAGE *** starting Erlide v0.15.2.201203201350 (core=0.15.2.201203201350) *** (Cp1252) 

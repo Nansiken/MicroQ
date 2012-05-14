@@ -1,0 +1,5 @@
+10:46:40,153 F: (ErlangCore.java:72) : Starting CORE Thread[Worker-0,5,main]
+10:46:40,155 I: (ErlangCoreLogger.java:42) : *** starting Erlide v0.15.2.201203201350 (core=0.15.2.201203201350) *** (Cp1252) 
+10:46:40,164 F: (ErlangCore.java:89) : Started CORE
+10:46:40,167 F: (ErlideUIPlugin.java:138) : Starting UI Thread[Worker-0,5,main]
+10:46:40,168 F: (ErlideUIPlugin.java:145) : Started UI
